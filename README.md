@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G-Chandramani
 - 👀 I’m interested in Web Development, Python Programing..
-- 🌱 I’m currently learning in Computer Engineering..
+- 🌱Computer Engineer..
 
 
 <!---
